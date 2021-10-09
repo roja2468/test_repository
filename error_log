@@ -1,0 +1,57 @@
+[14-Aug-2021 09:15:54 America/Chicago] PHP Fatal error:  require_once(): Failed opening required '/home4/chefsqv7/sujeevan.advitapps.com/application//third_party/PHPExcel.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/chefsqv7/sujeevan.advitapps.com/application/libraries/Excel.php on line 11
+[17-Aug-2021 13:56:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home4/chefsqv7/sujeevan.advitapps.com/application/modules/api/controllers/Api.php:397
+Stack trace:
+#0 [internal function]: Api->__destruct()
+#1 {main}
+  thrown in /home4/chefsqv7/sujeevan.advitapps.com/application/modules/api/controllers/Api.php on line 397
+[17-Aug-2021 13:56:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home4/chefsqv7/sujeevan.advitapps.com/application/modules/api/controllers/Api.php:397
+Stack trace:
+#0 [internal function]: Api->__destruct()
+#1 {main}
+  thrown in /home4/chefsqv7/sujeevan.advitapps.com/application/modules/api/controllers/Api.php on line 397
+[17-Aug-2021 13:57:01 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home4/chefsqv7/sujeevan.advitapps.com/application/modules/api/controllers/Api.php:397
+Stack trace:
+#0 [internal function]: Api->__destruct()
+#1 {main}
+  thrown in /home4/chefsqv7/sujeevan.advitapps.com/application/modules/api/controllers/Api.php on line 397
+[17-Aug-2021 14:55:33 America/Chicago] PHP Warning:  ini_set(): A session is active. You cannot change the session module's ini settings at this time in /home4/chefsqv7/sujeevan.advitapps.com/system/libraries/Session/Session_driver.php on line 205
+[17-Aug-2021 15:04:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home4/chefsqv7/sujeevan.advitapps.com/application/modules/api/controllers/Api.php:397
+Stack trace:
+#0 [internal function]: Api->__destruct()
+#1 {main}
+  thrown in /home4/chefsqv7/sujeevan.advitapps.com/application/modules/api/controllers/Api.php on line 397
+[17-Aug-2021 15:04:02 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home4/chefsqv7/sujeevan.advitapps.com/application/modules/api/controllers/Api.php:397
+Stack trace:
+#0 [internal function]: Api->__destruct()
+#1 {main}
+  thrown in /home4/chefsqv7/sujeevan.advitapps.com/application/modules/api/controllers/Api.php on line 397
+[17-Aug-2021 15:04:08 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home4/chefsqv7/sujeevan.advitapps.com/application/modules/api/controllers/Api.php:397
+Stack trace:
+#0 [internal function]: Api->__destruct()
+#1 {main}
+  thrown in /home4/chefsqv7/sujeevan.advitapps.com/application/modules/api/controllers/Api.php on line 397
+[17-Aug-2021 15:04:19 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home4/chefsqv7/sujeevan.advitapps.com/application/modules/api/controllers/Api.php:397
+Stack trace:
+#0 [internal function]: Api->__destruct()
+#1 {main}
+  thrown in /home4/chefsqv7/sujeevan.advitapps.com/application/modules/api/controllers/Api.php on line 397
+[17-Aug-2021 15:04:24 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home4/chefsqv7/sujeevan.advitapps.com/application/modules/api/controllers/Api.php:397
+Stack trace:
+#0 [internal function]: Api->__destruct()
+#1 {main}
+  thrown in /home4/chefsqv7/sujeevan.advitapps.com/application/modules/api/controllers/Api.php on line 397
+[17-Aug-2021 15:04:30 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home4/chefsqv7/sujeevan.advitapps.com/application/modules/api/controllers/Api.php:397
+Stack trace:
+#0 [internal function]: Api->__destruct()
+#1 {main}
+  thrown in /home4/chefsqv7/sujeevan.advitapps.com/application/modules/api/controllers/Api.php on line 397
+[17-Aug-2021 15:04:34 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home4/chefsqv7/sujeevan.advitapps.com/application/modules/api/controllers/Api.php:397
+Stack trace:
+#0 [internal function]: Api->__destruct()
+#1 {main}
+  thrown in /home4/chefsqv7/sujeevan.advitapps.com/application/modules/api/controllers/Api.php on line 397
+[19-Aug-2021 07:27:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home4/chefsqv7/sujeevan.advitapps.com/application/modules/api/controllers/Api.php:397
+Stack trace:
+#0 [internal function]: Api->__destruct()
+#1 {main}
+  thrown in /home4/chefsqv7/sujeevan.advitapps.com/application/modules/api/controllers/Api.php on line 397
